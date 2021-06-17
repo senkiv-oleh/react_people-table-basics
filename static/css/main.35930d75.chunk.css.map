@@ -1,0 +1,1 @@
+{"version":3,"sources":["PeopleTable.scss","App.scss"],"names":[],"mappings":"AACE,oBACE,wBAAoC,CACpC,WAAY,CCFhB,GACE,iBAAkB","file":"main.35930d75.chunk.css","sourcesContent":[".PeopleTable {\n  &__title {\n    background-color: rgb(247, 221, 221);\n    height: 25px;\n  }\n}\n","\r\nh1 {\r\n  padding-left: 20px;\r\n}\r\n"]}
